@@ -1,0 +1,17 @@
+{
+  "name": "osf-upload",
+  "version": "1.0.0",
+  "description": "Upload files to the OSF. Pimarily for the ExploringSocialMetacognition project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Jaquiery",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "readline-sync": "^1.4.10"
+  }
+}
